@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 9\consoleapplication1\consoleapplication1\consoleapplication1.cpp(202): warning C4244: "*=": konwersja z "double" do "int", możliwa utrata danych
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 9\consoleapplication1\consoleapplication1\consoleapplication1.cpp(194): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication1.vcxproj -> D:\Materiały ze studiów\Informatyka 2r2s materiały\Metody obliczeniowe\Laboratoria\Projekt nr 9\ConsoleApplication1\Debug\ConsoleApplication1.exe

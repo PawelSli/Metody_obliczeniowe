@@ -1,0 +1,61 @@
+﻿  ConsoleApplication1.cpp
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(103): warning C4305: "inicjowanie": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(41): note: zobacz odwołanie do funkcji szablon; wystąpienie „void difference<float>(T *,T **)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(104): warning C4305: "inicjowanie": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4244: "inicjowanie": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(82): warning C4244: "inicjowanie": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(111): note: zobacz odwołanie do funkcji szablon; wystąpienie „T aprox_prog_3pkt<T>(T,T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(41): note: zobacz odwołanie do funkcji szablon; wystąpienie „void difference<float>(T *,T **)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(75): warning C4244: "inicjowanie": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(113): note: zobacz odwołanie do funkcji szablon; wystąpienie „T aprox_centr_2pkt<T>(T,T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): warning C4244: "inicjowanie": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 8\consoleapplication1\consoleapplication1\consoleapplication1.cpp(116): note: zobacz odwołanie do funkcji szablon; wystąpienie „T aprox_wstecz_3pkt<T>(T,T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+  ConsoleApplication1.vcxproj -> D:\Materiały ze studiów\Informatyka 2r2s materiały\Metody obliczeniowe\Laboratoria\Projekt nr 8\ConsoleApplication1\Debug\ConsoleApplication1.exe

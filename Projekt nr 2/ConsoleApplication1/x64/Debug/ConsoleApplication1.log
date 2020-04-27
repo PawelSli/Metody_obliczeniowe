@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 2\consoleapplication1\consoleapplication1.cpp(26): warning C4101: "w": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication1.vcxproj -> D:\Materiały ze studiów\Informatyka 2r2s materiały\Metody obliczeniowe\Laboratoria\Projekt nr 2\x64\Debug\ConsoleApplication1.exe

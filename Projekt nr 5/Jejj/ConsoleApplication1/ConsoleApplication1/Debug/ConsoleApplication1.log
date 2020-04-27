@@ -1,0 +1,39 @@
+﻿  ConsoleApplication1.cpp
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(30): error C2760: błąd składniowy: nieoczekiwany token „identyfikator”, oczekiwano: „;”
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(257): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „Matrix<T>” jest kompilowane
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(30): error C7510: iterator”: Użycie zależnej nazwy typ musi być poprzedzone wartością „typename”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(139): error C7527: „T”: nie można ponownie zadeklarować nazwy parametru szablonu
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(13): note: zobacz poprzednią definicję „T”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(305): error C2760: błąd składniowy: nieoczekiwany token „identyfikator”, oczekiwano: „;”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(305): error C7510: Position”: Użycie zależnej nazwy typ musi być poprzedzone wartością „typename”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(320): error C2760: błąd składniowy: nieoczekiwany token „identyfikator”, oczekiwano: „;”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(320): error C7510: Position”: Użycie zależnej nazwy typ musi być poprzedzone wartością „typename”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\ludecomposition.h(23): error C2572: „LU”: ponowna definicja domyślnego argumentu: parametr 1
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(346): note: zobacz deklarację „LU”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\ludecomposition.h(78): error C2995: "void LU(Matrix<T> &,Matrix<T> &,std::vector<long,std::allocator<_Ty>> &,int)": szablon funkcji został już zdefiniowany
+          with
+          [
+              _Ty=long
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(346): note: zobacz deklarację „LU”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\ludecomposition.h(91): error C2572: „LU2”: ponowna definicja domyślnego argumentu: parametr 1
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(417): note: zobacz deklarację „LU2”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\ludecomposition.h(135): error C2995: "void LU2(Matrix<T> &,std::vector<long,std::allocator<_Ty>> &,int)": szablon funkcji został już zdefiniowany
+          with
+          [
+              _Ty=long
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(417): note: zobacz deklarację „LU2”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\ludecomposition.h(145): error C2995: "Matrix<T> Kronecker(const std::vector<long,std::allocator<_Ty>> &,const std::vector<_Ty,std::allocator<_Ty>> &)": szablon funkcji został już zdefiniowany
+          with
+          [
+              _Ty=long
+          ]
+  d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\matrix.h(467): note: zobacz deklarację „Kronecker”
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(56): error C2065: "LU": niezadeklarowany identyfikator
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): error C2065: "Kronecker": niezadeklarowany identyfikator
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(76): error C2065: "LU2": niezadeklarowany identyfikator
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): error C2065: "Kronecker": niezadeklarowany identyfikator
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): error C2088: "*": niedozwolone dla class
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): error C2672: „print”: nie znaleziono zgodnej przeciążonej funkcji
+d:\materiały ze studiów\informatyka 2r2s materiały\metody obliczeniowe\laboratoria\projekt nr 5\jejj\consoleapplication1\consoleapplication1\consoleapplication1.cpp(95): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
